@@ -1,0 +1,41 @@
+body {
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/970/92/936/anime-crossover-wallpaper-preview.jpg);
+    font-family: 'Arial Narrow';
+    color: whitesmoke
+}
+
+.menu {
+    width: 90%;
+    background-color: rgb(19, 19, 19);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 1000px;
+  }
+
+h1, h2, h3, p {
+    text-align: center;
+}
+.moto {
+    text-align: center;
+}
+hr {
+    background-color: purple;
+    border-color: purple;
+    height: 2px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.caption {
+    text-align: center;
+    margin-bottom: 5px;
+}
+.color {
+    color: purple;
+}
+h1 {
+    font-size: 50px;
+}
